@@ -1,4 +1,3 @@
-const axios = require('axios');
 const Product = require('../models/product');
 
 // @desc    Get product recommendations based on user behavior (RapidMiner Integration)
